@@ -1,2 +1,2 @@
 # BIM.vis
-BIM [verification](/tree/master/verification) | [implementation](/tree/master/implementation) | [specification](/tree/master/specification)
+BIM [verification](/tree/master/verification/README.md) | [implementation](/tree/master/implementation/README.md) | [specification](/tree/master/specification/README.md)
